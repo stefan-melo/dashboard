@@ -132,6 +132,8 @@ ic(s2.conn_type)
 ic(s1.type)
 ic(s2.type)
 
+ic(s1)
+
 data1 = DF_Data(s1)
 data2 = DF_Data(s2)
 
